@@ -9,8 +9,8 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 -KİTAP ÖDÜNÇ , İADE , İSTATİSTİK VE AYARLAR BÖLÜMLERİ ÜZERİNDE HALEN ÇALIŞMAKTAYIM.
 <br/>
 <b>-TANITIM VİDEOSU EKLENECEK</b>
-<br/>
-$ KURULUM
+<br/><br/>
+<b>$ KURULUM<b/>
 -> ZİP OLARAK PROJEYİ İNDİRİN<br/><br/>
 -> PROJE İÇERİSİN DE BULUNAN VERİ TABANI DOSYASINI (İÇE AKTAR / İMPORT ) İŞLEMİ İLE VERİ TABANI YÖNETİM PANELİNİZE KURUN (PHPMYADMİN VB.) <br/><br/>
 -> VERİ TABANI İŞLEMİ BİTTİKTEN SONRA GERİYE KALAN DİĞER ZİP DOSYASININ İÇERİĞİNİ IDE'NİZİN (NETBEANS VB.) PROJELERİNİ BARINDIRAN (PATH/YOL) ÜZERİNE KLASÖR ŞEKLİNDE AKTARIN.<br/><br/>
