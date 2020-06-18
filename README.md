@@ -9,3 +9,5 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 -KİTAP ÖDÜNÇ , İADE , İSTATİSTİK VE AYARLAR KISMI BİTMEK ÜZERE BULUNAN HATALAR GİDERİLİYOR.
 
 -TANITIM VİDEOSU EKLENECEK
+
+<b> test </b>
