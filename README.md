@@ -16,7 +16,9 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 -> ZİP OLARAK PROJEYİ İNDİRİN<br/><br/>
 -> PROJE İÇERİSİN DE BULUNAN VERİ TABANI DOSYASINI (İÇE AKTAR / İMPORT ) İŞLEMİ İLE VERİ TABANI YÖNETİM PANELİNİZE KURUN (PHPMYADMİN VB.) <br/><br/>
 -> VERİ TABANI İŞLEMİ BİTTİKTEN SONRA GERİYE KALAN DİĞER ZİP DOSYASININ İÇERİĞİNİ IDE'NİZİN (NETBEANS VB.) PROJELERİNİ BARINDIRAN (PATH/YOL) ÜZERİNE KLASÖR ŞEKLİNDE AKTARIN.<br/><br/>
--> PROJE'Yİ DERLEMEK İÇİN IDE'Yİ ÇALIŞTIRIP VERİ TABANI BAĞLANTISI İÇİN ÖNCELİKLE PROJEDE BULUNAN javabaglanti.java DOSYASINI KENDİ SUNUCUNUZDAKİ BİLGİLERE GÖRE DEĞİŞTİREBİLİR VEYA BULUNAN BİLGİLERE GÖRE SUNUCUZUNUN VERİ TABANI BAĞLANTI BİLGİLERİNİ GÜNCELLEYEBİLİRSİNİZ.<br/><br/>
+-> PROJE'Yİ DERLEMEK İÇİN IDE'Yİ ÇALIŞTIRIP VERİ TABANI BAĞLANTISI İÇİN ÖNCELİKLE PROJEDE BULUNAN javabaglanti.java DOSYASINI KENDİ SUNUCUNUZDAKİ BİLGİLERE GÖRE DEĞİŞTİREBİLİR VEYA BULUNAN BİLGİLERE GÖRE SUNUCUZUNUN VERİ TABANI BAĞLANTI BİLGİLERİNİ GÜNCELLEYEBİLİRSİNİZ.
+<br><b>default db username : root</b><br/> <b>default db pass : firat1975 </b>
+<<br/><br/>
 -> IDE'NİZ ÜZERİNDEN PROJEYİ DERLEYİP TEST EDEBİLİRSİNİZ KURULUM TAMAMLANMIŞTIR.
 <br/><br/>
 <h3> ÖN İZLENİM </h3><br/>
