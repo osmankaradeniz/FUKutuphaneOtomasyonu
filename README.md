@@ -2,9 +2,9 @@
 Proje Ödevi Kapsamında
 JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir kütüphane otomasyonu.
 
--Personel KAYIT , ŞİFRE UNUTTUM , GİRİŞ (<b>√</b>ÇALIŞIYOR)<br/>
--ÖĞRENCİ İŞLEMLERİ (<b>√</b>ÇALIŞIYOR)<br/>
--KİTAP İŞLEMLERİ (<b>√</b>ÇALIŞIYOR)<br/>
+-Personel KAYIT , ŞİFRE UNUTTUM , GİRİŞ (ÇALIŞIYOR)<br/>
+-ÖĞRENCİ İŞLEMLERİ (ÇALIŞIYOR)<br/>
+-KİTAP İŞLEMLERİ (ÇALIŞIYOR)<br/>
 <br/>
 -KİTAP ÖDÜNÇ , İADE , İSTATİSTİK VE AYARLAR BÖLÜMLERİ ÜZERİNDE HALEN ÇALIŞMAKTAYIM.
 <br/>
