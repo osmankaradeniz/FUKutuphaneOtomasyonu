@@ -32,3 +32,5 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 <img src="https://i.hizliresim.com/AeYGe1.png" alt="Bölüm İşlemleri"  width="576" height="484"><br/>
 <img src="https://i.hizliresim.com/81sCj6.png" alt="Öğrenci Ekle"  width="458" height="357"><br/>
 <img src="https://i.hizliresim.com/cYLGy6.png" alt="Kitap Ödünç Verme İşlemi"  width="940" height="650"><br/>
+<b> Veri Tabanı Şeması </b>
+<img src="https://i.hizliresim.com/FBl03C.png" alt="VERİTABANIYAPISI" width="727" height="504"><br/>
