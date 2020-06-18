@@ -19,6 +19,5 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 -> PROJE'Yİ DERLEMEK İÇİN IDE'Yİ ÇALIŞTIRIP VERİ TABANI BAĞLANTISI İÇİN ÖNCELİKLE PROJEDE BULUNAN javabaglanti.java DOSYASINI KENDİ SUNUCUNUZDAKİ BİLGİLERE GÖRE DEĞİŞTİREBİLİR VEYA BULUNAN BİLGİLERE GÖRE SUNUCUZUNUN VERİ TABANI BAĞLANTI BİLGİLERİNİ GÜNCELLEYEBİLİRSİNİZ.<br/><br/>
 -> IDE'NİZ ÜZERİNDEN PROJEYİ DERLEYİP TEST EDEBİLİRSİNİZ KURULUM TAMAMLANMIŞTIR.
 <br/><br/>
-
 <h3> ÖN İZLENİM </h3><br/>
-![KAYIT İŞLEMİ 0](https://hizliresim.com/QQULan)
+![anasayfa](https://i.hizliresim.com/QQULan.png)
