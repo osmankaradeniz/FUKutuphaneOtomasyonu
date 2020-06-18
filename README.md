@@ -20,4 +20,15 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 -> IDE'NİZ ÜZERİNDEN PROJEYİ DERLEYİP TEST EDEBİLİRSİNİZ KURULUM TAMAMLANMIŞTIR.
 <br/><br/>
 <h3> ÖN İZLENİM </h3><br/>
-<img src="https://i.hizliresim.com/QQULan.png" width="500" height="600">
+<img src="https://i.hizliresim.com/QQULan.png" alt="giris" width="500" height="600"><br/>
+<img src="https://i.hizliresim.com/l42VEQ.png" alt="üye kayıt"  width="500" height="500"><br/>
+<img src="https://i.hizliresim.com/DdThVN.png" alt="sifre yenile"  width="500" height="500"><br/>
+<img src="https://i.hizliresim.com/cOpB3a.png" alt="Anasayfa"  width="731" height="560"><br/>
+<img src="https://i.hizliresim.com/lGwgGM.png" alt="Kitap İşlemleri"  width="807" height="641"><br/>
+<img src="https://i.hizliresim.com/RWcJE0.png" alt="Kitap Türü İşlemleri"  width="536" height="314"><br/>
+<img src="https://i.hizliresim.com/52PNL4.png" alt="Kitap Ekle"  width="453" height="560"><br/>
+<img src="https://i.hizliresim.com/Y8hHdH.png" alt="Öğrenci İşlemleri"  width="805" height="583"><br/>
+<img src="https://i.hizliresim.com/oWx1SX.png" alt="Fakülte İşlemleri"  width="547" height="332"><br/>
+<img src="https://i.hizliresim.com/AeYGe1.png" alt="Bölüm İşlemleri"  width="576" height="484"><br/>
+<img src="https://i.hizliresim.com/81sCj6.png" alt="Öğrenci Ekle"  width="458" height="357"><br/>
+<img src="https://i.hizliresim.com/cYLGy6.png" alt="Kitap Ödünç Verme İşlemi"  width="940" height="650"><br/>
