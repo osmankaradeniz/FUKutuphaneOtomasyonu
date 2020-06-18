@@ -10,7 +10,7 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 <br/>
 <b>-TANITIM VİDEOSU EKLENECEK</b>
 <br/><br/>
-<b>$ KURULUM</b>
+<h2>$ KURULUM</h2>
 
 -> ZİP OLARAK PROJEYİ İNDİRİN<br/><br/>
 -> PROJE İÇERİSİN DE BULUNAN VERİ TABANI DOSYASINI (İÇE AKTAR / İMPORT ) İŞLEMİ İLE VERİ TABANI YÖNETİM PANELİNİZE KURUN (PHPMYADMİN VB.) <br/><br/>
