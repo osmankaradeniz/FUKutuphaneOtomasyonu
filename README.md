@@ -20,4 +20,4 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 -> IDE'NİZ ÜZERİNDEN PROJEYİ DERLEYİP TEST EDEBİLİRSİNİZ KURULUM TAMAMLANMIŞTIR.
 <br/><br/>
 <h3> ÖN İZLENİM </h3><br/>
-![anasayfa](https://i.hizliresim.com/QQULan.png)
+[url=https://hizliresim.com/QQULan][img]https://i.hizliresim.com/QQULan.png[/img][/url]
