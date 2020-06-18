@@ -21,5 +21,4 @@ JAVA veri tabanı işlemleri (EKLE / SİL / GÜNCELLE vs.) kullanılan bir küt�
 <br/><br/>
 
 <h3> ÖN İZLENİM </h3><br/>
-![KAYIT İŞLEMİ 0](http://url/to/img.png)
-[url=https://hizliresim.com/QQULan][img]https://i.hizliresim.com/QQULan.png[/img][/url]
+![KAYIT İŞLEMİ 0](https://hizliresim.com/QQULan)
